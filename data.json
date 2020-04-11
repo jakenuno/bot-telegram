@@ -1,0 +1,39 @@
+{
+    "data_en": {
+
+        "ofensive_words": [
+            "offensive_word_1",
+            "offensive_word_2",
+            "offensive_word_3"
+        ],
+
+        "price_words": [
+            "price",
+            "costs"
+        ],
+
+        "buy_words": [
+            "invest",
+            "acquire"
+        ]
+    },
+
+    "data_es": {
+
+        "ofensive_words": [
+            "insulto_1",
+            "insulto_2",
+            "insulto_3"
+        ],
+
+        "price_words": [
+            "precio",
+            "costo"
+        ],
+
+        "buy_words": [
+            "invertir",
+            "adquirir"
+        ]
+    }
+}

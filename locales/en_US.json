@@ -1,0 +1,17 @@
+{
+	"info": "JakeNunoCoin is the first coin with software 100% open source with 0️% fee powered by blockchain.",
+	"rules": "• No spam \n• No insults \n• Do not talk about none related JakeNunoCoin topics \n• No talking about buying or selling signals \n• No adult content \n• Always treat with respect \n• Use common sense \nLack of knowledge of these rules does not exempt you from compliance",
+	"help": "Hello my name is JakeNunoCoinBot and I'm here to help you! \n\n My available commands are: \n\n/info - what is JakeNunoCoin \n/rules - group rules \n/price - view current woonk price \n/howToBuy - how to buy JakeNunoCoins \n/help - command list",
+	"price": "Current JakeNunoCoin price: \n 1 ETH = 50,000 JNCs + the current bonus",
+	"price.especific": "Current JakeNunoCoin price: \n 1 ETH = 50,000 JNCs + the current bonus (%s) \n 1 ETH = %s USD, thus 1 JNC = %s USD \n 1 ETH = %s EUR, thus 1 JNC = %s EUR \n 1 ETH = %s MXN, thus 1 JNC = %s MXN",
+	"howToBuy": "Buying JakeNunoCoins is very simple! \n\nYou have to follow these 10 simple steps: \n\n1.- Go to JakeNunoCoin's official website: https://JakeNunoCoin.com \n2.- Click on the'Buy' button ('If you are already registered, otherwise fill out the private sale form'). \n3.- Log in to your JakeNunoCoin account. \n4.- Select the currency you want to buy with. \n5.-  Enter the amount of JakeNunoCoins you'd like to buy. \n6.- Click on the 'BUY' button. \n7.- In case it's Ethereum, don't send from exchange houses and put the gas limit at 120,000; and Gas Price at 20 GWEI. \n8.- Envía la cantidad exacta que pusiste (en caso de ser ETH debes enviar desde el wallet que quieres recibir los JakeNunoCoins) y autoriza la transacción. \n9.- Now that you've done this, enter the'+' button in the address field of the wallet where you'll save your JakeNunoCoins. \n10.- Ready! You already bought JakeNunoCoins.",
+	"newChatMembers.username": "Welcome to JakeNunoCoin @%s! do not forget to follow the /rules",
+	"newChatMembers.first_name": "Welcome to JakeNunoCoin %s! do not forget to follow the /rules",
+	"replyAndDelete.username": "Posting %s is forbidden, @%s! Please, avoid us the shame of banning you. \n%s/2 warnings.",
+	"replyAndDelete.first_name": "Posting %s is forbidden, %s! Please, avoid us the shame of banning you. \n%s/2 warnings.",
+	"spam": "spam",
+	"insult": "insults",
+	"forwardMessage.username": "@%s, forwarding messages is not allowed, sorry.",
+	"forwardMessage.first_name": "%s, forwarding messages is not allowed, sorry.",
+	"link-info": "link-info"
+}

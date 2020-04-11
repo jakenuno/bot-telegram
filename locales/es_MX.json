@@ -1,0 +1,17 @@
+{
+	"info": "JakeNunoCoin es la primera moneda de software 100% libre y de código abierto con 0️% de comision utilizando blockchain.",
+	"rules": "• No spam \n• No groserías \n• No hablar sobre otras ICO \n• No hablar de señales de compra o venta \n• No contenido para adultos \n• Siempre tratarse con respeto \n• Usar el sentido común \nEl desconocimiento de estas reglas no te exenta de su cumplimiento",
+	"help": "¡Hola mi nombre es JakeNunoCoinBot y estoy aquí para ayudarte! \n\n Mis comandos disponibles son: \n\n/info - que es JakeNunoCoin \n/rules - reglas del grupo \n/price - ver precio actual del JakeNunoCoin \n/howToBuy - pasos para adquirir JakeNunoCoins \n/help - lista de comandos",
+	"price": "Precio actual del JakeNunoCoin: \n 1 ETH = 50,000 JNCs + el bonus actual",
+	"price.especific": "Precio actual del JakeNunoCoin: \n 1 ETH = 50,000 JNCs + el bonus actual (%s) \n 1 ETH = %s USD, por lo tanto 1 JNC = %s USD \n 1 ETH = %s EUR, por lo tanto 1 JNC = %s EUR \n 1 ETH = %s MXN, por lo tanto 1 JNC = %s MXN",
+	"howToBuy": "¡Comprar JakeNunoCoins es muy sencillo! \n\nTienes que seguir éstos 10 sencillos pasos: \n\n1.-  Accede a sitio web oficial de JakeNunoCoin: https://JakeNunoCoin.com \n2.- Da click en el botón 'Comprar'. ( Si ya estás registrado, de lo contrario llena el formulario de venta privada ). \n3.- Inicia sesión en tu cuenta de JakeNunoCoin. \n4.- Selecciona la moneda con la que quieras comprar. \n5.- Ingresa la cantidad de JakeNunoCoins que quisieras comprar. \n6.- Da click al botón 'COMPRAR'. \n7.- En caso de que sea Ethereum, no envíes desde casas de cambio y pon el gas limit de 120,000; y Gas Price a 20 GWEI. \n8.- Envía la cantidad exacta que pusiste (en caso de ser ETH debes enviar desde el wallet que quieres recibir los JakeNunoCoins) y autoriza la transacción. \n9.- Ya que haces esto, ingresa en el botón '+' el Address de la wallet donde guardaras tus JakeNunoCoins. \n10.- ¡Listo! Ya compraste JakeNunoCoins.",
+	"newChatMembers.username": "¡Bienvenido a JakeNunoCoin @%s! no olvides seguir las /rules",
+	"newChatMembers.first_name": "¡Bienvenido a JakeNunoCoin %s! no olvides seguir las /rules",
+	"replyAndDelete.username": "¡Publicar %s está prohibido, @%s! Por favor, evítanos la pena de bannearte. \n%s/2 advertencias.",
+	"replyAndDelete.first_name": "¡Publicar %s está prohibido, %s! Por favor, evítanos la pena de bannearte. \n%s/2 advertencias.",
+	"spam": "spam",
+	"insult": "groserías",
+	"forwardMessage.username": "@%s, reenviar mensajes no está permitido, lo siento.",
+	"forwardMessage.first_name": "%s, reenviar mensajes no está permitido, lo siento.",
+	"link-info": "link-info"
+}
